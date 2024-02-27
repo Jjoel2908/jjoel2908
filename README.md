@@ -1,6 +1,6 @@
 # José Joel Maldonado Alvarado  |  @Jjoel2908
 
-Soy un desarrollador Full Stack con un enfoque especializado en el diseño UX/UI. Aquí encontrarás información detallada sobre mi conjunto preferido de tecnologías.
+Soy un desarrollador Full Stack con un enfoque especializado en el diseño UX/UI. Aquí encontrarás información detallada sobre las tecnologías que manejo y mi experiencia en el desarrollo web.
 
 ## Stack de Tecnologías 🛠️
 
@@ -15,8 +15,4 @@ Soy un desarrollador Full Stack con un enfoque especializado en el diseño UX/UI
 ### Base de Datos:
 - MySQL 📊
 
-
-Contacto
-¡No dudes en ponerte en contacto conmigo para colaboraciones!
-
-LinkedIn: José Joel Maldonado Alvarado
+¡Gracias por visitar mi perfil! No dudes en contactarme si tienes alguna pregunta o proyecto interesante. 😊

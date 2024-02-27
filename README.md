@@ -1,20 +1,19 @@
-### Hi there 👋
-# José Joel Maldonado Alvarado | @Jjoel2908
+# José Joel Maldonado Alvarado  |  @Jjoel2908
 
 Soy un desarrollador Full Stack con un enfoque especializado en el diseño UX/UI. Aquí encontrarás información detallada sobre mi conjunto preferido de tecnologías.
 
 
 Stack de Tecnologías
 Frontend:
-HTML5
-CSS3
-React
+> HTML5
+> CSS3
+> React
 
 Backend:
-PHP
+> PHP
 
 Base de Datos:
-MySQL
+> MySQL
 
 
 Contacto

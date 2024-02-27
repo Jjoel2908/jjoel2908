@@ -1,16 +1,23 @@
 ### Hi there 👋
+# José Joel Maldonado Alvarado | @Jjoel2908
 
-<!--
-**Jjoel2908/jjoel2908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador Full Stack con un enfoque especializado en el diseño UX/UI. Aquí encontrarás información detallada sobre mi conjunto preferido de tecnologías.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Stack de Tecnologías
+Frontend:
+HTML5
+CSS3
+React
+
+Backend:
+PHP
+
+Base de Datos:
+MySQL
+
+
+Contacto
+¡No dudes en ponerte en contacto conmigo para colaboraciones!
+
+LinkedIn: José Joel Maldonado Alvarado

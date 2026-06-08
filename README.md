@@ -5,14 +5,12 @@ Soy un desarrollador Full Stack con un enfoque especializado en el diseño UX/UI
 ## Stack de Tecnologías 🛠️
 
 ### Frontend:
-- HTML5 🌟
-- CSS3 🎨
-- React ⚛️
+- HTML5 
+- CSS3
+- React
 
 ### Backend:
-- PHP 🚀
+- PHP 
 
 ### Base de Datos:
-- MySQL 📊
-
-¡Gracias por visitar mi perfil! No dudes en contactarme si tienes alguna pregunta o proyecto interesante. 😊
+- MySQL 
